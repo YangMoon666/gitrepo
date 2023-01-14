@@ -1,7 +1,3 @@
-# Yandexlyceum
-def my_superfunction():
-    print('What an awesome print!')
-
 def my_superfunction():
     print('What an awesome print!')
 
@@ -12,7 +8,7 @@ def main():
     print('Again')
     print('UFO came and added this line')
     my_superfunction()
-    print(1)
+    print('fff')
 
 
 if __name__ == '__main__':
